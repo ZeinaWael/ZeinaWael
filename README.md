@@ -13,7 +13,7 @@
  
 <br/>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=500&color=FF69B4&center=true&vCenter=true&width=600&lines=Zeina+Wael;20+Years+Old;College+of+Computer+and+Artifitial+Intelligence;University+of+Minia+National+University+(+MNU+)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=500&color=FF69B4&center=true&vCenter=true&width=600&lines=Zeina+Wael;20+Years+Old;Computer+and+Artifitial+Intelligence;Minia+National+University+(+MNU+)" alt="Typing SVG" />
 </div>
 <br/>
 
@@ -35,6 +35,12 @@
       <td>🎓 College</td>
       <td>Faculty of Computer and Artifitial Intelligence</td>
     </tr>
+    <tr>
+      <td>👀 Profile Views</td>
+      <td>
+        <img src="https://komarev.com/ghpvc/?username=zeinawael&color=ff69b4" alt="Profile views" />
+      </td>
+    </tr>
   </table>
 </div>
 
@@ -53,7 +59,22 @@
 
 <br/><br/>
 
+</div> 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+     
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,vscode,github,git"/> 
+    
+  <img src="https://skillicons.dev/icons?i=cs,cpp,python,java,mysql" /> 
+     
+  <img src="https://img.shields.io/badge/Data%20Structures-ff69b4?style=flat" alt="Data Structures" />
+  <img src="https://img.shields.io/badge/Algorithms-green?style=flat" alt="Algorithms" />
+  <img src="https://img.shields.io/badge/OOP-purple?style=flat" alt="OOP" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-success?style=flat" alt="Problem Solving" />
+  <img src="https://img.shields.io/badge/Data%20Base-purple?style=flat" alt="Data Base" />
 
+</div>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -82,16 +103,6 @@
 
  
 
-</div> -->
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <!-- Web & Frontend -->
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,mui,tailwind,figma,vscode,github,git" /> 
-    <!-- Backend & Programming -->
-    <img src="https://skillicons.dev/icons?i=c,cpp,csharp,sql,python,java,mysql,OOP" />
-    
-     
-     
-</div>
+ 
+  
  
