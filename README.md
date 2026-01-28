@@ -1,6 +1,8 @@
 <br>
 <div align="center">
+  <a href="https://zeinawael.github.io/My-Portfolio/" target="_blank">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&duration=1500&pause=500&color=FF69B4&center=true&vCenter=true&width=800&lines=Zeina+Wael;Welcome+Zeina+💖" alt="Typing SVG" />
+  </a>
   <br>
 </div>
 <br>
