@@ -39,8 +39,8 @@
 
 ---
 
-### ✍️ Random Fun Quote
-"Code, coffee, and a little bit of sparkle ✨☕💻"
+### ✍️ Quote
+### Code, coffee, and a little bit of sparkle ✨☕💻
 
 
 ---
