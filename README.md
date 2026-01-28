@@ -39,8 +39,9 @@
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Random Fun Quote
+"Code, coffee, and a little bit of sparkle ✨☕💻"
+
 
 ---
 
