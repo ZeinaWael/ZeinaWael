@@ -67,7 +67,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,vscode,github,git"/> 
     
   <img src="https://skillicons.dev/icons?i=cs,cpp,python,java,mysql" /> 
-     
+     <br> <br>
   <img src="https://img.shields.io/badge/Data%20Structures-ff69b4?style=flat" alt="Data Structures" />
   <img src="https://img.shields.io/badge/Algorithms-green?style=flat" alt="Algorithms" />
   <img src="https://img.shields.io/badge/OOP-purple?style=flat" alt="OOP" />
